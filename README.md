@@ -1,4 +1,4 @@
-## Docker and Nginx
+## Docker
 
 ### The MIT License (MIT)
 
