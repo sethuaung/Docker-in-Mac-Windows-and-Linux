@@ -1,6 +1,4 @@
-# Containerized Webapplication
-
-## Deploying a Static HTML Site with Docker and Nginx
+## Docker and Nginx
 
 ### The MIT License (MIT)
 
